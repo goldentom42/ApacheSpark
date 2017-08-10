@@ -2,9 +2,10 @@ Introduction
 ^^^^^^^^^^^^
 
 The goal of this tutorial is to help you install Apache Spark and have a working jupyter environment with the following kernels/features:
- - Python 3.5 with access to a local Apache Spark cluster through pyspark or findspark module
- - Scala 2.11 with access to a local Apache Spark cluster
- - Apache Toree with scala 
+
+ - Python 3.5 with access to a local `Apache Spark <http://spark.apache.org>`_ cluster through pyspark or findspark module
+ - Scala 2.11 with access to a local `Apache Spark <http://spark.apache.org>`_ cluster using `Jupyter-Scala <https://github.com/jupyter-scala/jupyter-scala>`_
+ - `Apache Toree <https://github.com/apache/incubator-toree>`_  with acces to Apache Spark using Scala, Python or R
  
 At the end of the tutorial you will have python 3.5, scala 2.11 and Apache Spark 2.1.1 installed on an Ubuntu system.
 
