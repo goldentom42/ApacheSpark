@@ -236,7 +236,7 @@ In the first cell type : (this is directly inspired by jupyter-scala readme file
     import $profile.`hadoop-2.7`
     import $ivy.`org.apache.spark::spark-sql:2.1.1`
     import $ivy.`org.apache.hadoop:hadoop-aws:2.7.4`
-    import $ivy.`org.jupyter-scala::spark0.4.2`
+    import $ivy.`org.jupyter-scala::spark:0.4.2`
 
 
 Depending on your network connection this may take some time but now that we have a local copy the import statements will be a lot faster.
